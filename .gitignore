@@ -1,3 +1,4 @@
 .env/
 *.nii
 *.mha
+*.txt
