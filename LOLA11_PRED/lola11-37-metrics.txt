@@ -1,0 +1,6 @@
+Jaccard for lung_upper_lobe_left: 0.8210
+Jaccard for lung_lower_lobe_left: 0.8330
+Jaccard for lung_upper_lobe_right: 0.8554
+Jaccard for lung_middle_lobe_right: 0.7386
+Jaccard for lung_lower_lobe_right: 0.9487
+

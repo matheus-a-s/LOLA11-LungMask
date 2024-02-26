@@ -1,0 +1,35 @@
+Statistics for class lung_upper_lobe_left:
+Mean: 0.8985
+Std: 0.1201
+Min: 0.3587
+Max: 0.9717
+Median: 0.9492
+
+Statistics for class lung_lower_lobe_left:
+Mean: 0.8890
+Std: 0.1567
+Min: 0.0154
+Max: 0.9722
+Median: 0.9497
+
+Statistics for class lung_upper_lobe_right:
+Mean: 0.8442
+Std: 0.1787
+Min: 0.0787
+Max: 0.9600
+Median: 0.9134
+
+Statistics for class lung_middle_lobe_right:
+Mean: 0.7568
+Std: 0.2089
+Min: 0.0000
+Max: 0.9032
+Median: 0.8277
+
+Statistics for class lung_lower_lobe_right:
+Mean: 0.8712
+Std: 0.1966
+Min: 0.0000
+Max: 0.9689
+Median: 0.9412
+
